@@ -56,7 +56,7 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="../materi2/sistem/vendor/image/cr01.jpg" class="d-block w-100" alt="...">
+                                <img src="../materi2/public/image/cr01.jpg" class="d-block w-100" alt="...">
                             </div>
                             <div class="carousel-item">
                                 <img src="../materi2/sistem/vendor/image/cr02.jpg" class="d-block w-100" alt="...">
